@@ -3,6 +3,4 @@ A test from git.corp to public github!
 
 this may not work either!
 
-test again!
-
-now?
+Why I should believe!
